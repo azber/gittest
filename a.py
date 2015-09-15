@@ -5,6 +5,3 @@ mmmmmm
 mmmmm
 mmmmm
 
-mmmmmmmm
-mmmmmmmm
-mmmmmmmm
